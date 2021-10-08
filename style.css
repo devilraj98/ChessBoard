@@ -1,0 +1,19 @@
+table, td {
+    width: 800px;
+    height:100px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin:6% auto;
+  text-align: center;
+  
+  
+
+}
+
+.black{
+    background-color:black;
+}
+
+.white{
+    background-color:white;
+}
